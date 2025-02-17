@@ -5,6 +5,7 @@
 # Credits:
 # - Meta AI
 # - Translate
+# I PROVIDE THIS TOOL AS OPEN SOURCE, PLEASE RESPECT ME AS A DEVELOPER!!!
 """
  (                              *                   
  )\ )           )             (  `                  
