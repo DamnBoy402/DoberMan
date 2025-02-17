@@ -91,6 +91,7 @@ results.[txt|json]
  - HyperXclic!
  - NoTolerance - Ilham
  - C10F - Darkness
+ - Lezhin
  ## And all contributors
  ### You are free to recode this tool, but don't forget to include the original developer!
 
