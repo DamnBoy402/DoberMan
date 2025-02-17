@@ -35,8 +35,7 @@
 ## ⚙️ Installation
 1. Clone repository:
    ```bash
-   git clone https://github.com/DamnBoy402/DoberMan.git
-   cd DoberMan
+   git clone https://github.com/DamnBoy402/DoberMan.git && cd DoberMan
    ```
 2. Install dependencies:
    ```bash
