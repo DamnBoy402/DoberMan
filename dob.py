@@ -1,7 +1,7 @@
 # DoberMan - Advanced Website Spider/Crawler/Scraper
 # Created by: DamnBoy402
 # Version: 1.1
-# Color(Rich) variable & texting is from Meta AI no cap
+# texting is from Meta AI no cap
 # Credits:
 # - Meta AI
 # - Translate
